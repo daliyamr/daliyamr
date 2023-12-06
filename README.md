@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daliyamr
+- 👋 Hi, I’m Mohamed Amr
 - 👀 I’m interested in software, football, gym and swimming
 - 🌱 I’m currently learning python, sql, c++ and html
 - 💞️ I’m looking to collaborate on microsoft or google
